@@ -38,25 +38,29 @@ body{
 
 
 
-.main2{
+.div4{
     display: flex;
-    margin-top: 600px;
-    margin-right: 500px;
+    justify-content: center;
+    align-items: center;
     width: 200px;
     height: 500px;
-    border-right: 1000px;
+    
 }
 
 
 
 section {
-    display: flex;
+
     margin-inline-start: 100px;
     height: 500px;
     width: 500px;
     border-radius: 80px;
     background-color: aquamarine;
     
+}
+
+.section2{
+    display: flex;
 }
 
 
